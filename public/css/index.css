@@ -1,6 +1,7 @@
 html, body {
   width: 100%;
   overflow: hidden;
+  font-family: cursive;
 }
 .wp{
   position: absolute;
@@ -26,6 +27,9 @@ html, body {
 }
 .page {
   background-color: #e2ecf5;
+}
+h4 {
+  font-size: 18px;
 }
 /* 箭头 */
 @-webkit-keyframes start {
